@@ -1,4 +1,4 @@
-# blockchain_project
+# Ether-Bet
 Betting DAPP
 
 ## Team Members  
